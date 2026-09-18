@@ -72,7 +72,7 @@ Due to file size limits on GitHub, **the source code repository itself does not 
 In the Releases section, you will find the complete, ready-to-run package:
 
 1. **The Core Archive (~1.4 GB):** A turnkey, 100% built execution environment containing pre-configured 86Box, necessary component ROMs, the virtual machine disk image with preinstalled drivers, and the English version of the game.
-2. **French Language Pack:** A separate downloadable ISO containing the French version of the game if you prefer to play in French (place it alongside the English version as show above).
+2. **French Language Pack:** A separate downloadable ISO containing the French version of the game (texts and dubs) if you prefer to play in French (place it alongside the English version as show above). I strongly recommend you to play it in French if you do understand it, the dubbing is wonderful.
 
 *(Note: Separate Windows and Linux targeted archives are provided in the releases to match your host operating system environment.)*
 
