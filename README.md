@@ -17,7 +17,7 @@ To address modern compatibility, a modern port was published by THQ Nordic on St
 
 * **Clock Speeds & Input Lag:** Because modern CPUs break the original timing, the port attempts to work around it by slowing down the global game speed, resulting in sluggish performance and persistent input lag on all character actions.
 * **Forced Visual Filters:** It introduces harsh graphical filters designed to mask underlying rendering incompatibilities, distorting the original art style.
-* **Framerate Caps:** The experience is locked down, failing to deliver the smooth fluidity the game deserves.
+* **Framerate Caps:** The experience is locked down to 30FPS, failing to deliver the smooth fluidity the game used to have.
 
 ### The Purpose of Verdante
 
