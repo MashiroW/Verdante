@@ -65,14 +65,14 @@ For those inspecting the complete release layout, the archive is structured as f
 
 ## 📥 Downloads & Releases
 
-Due to the massive size of virtual machine disks, ISO files, and binaries, **the source code repository itself does not contain the necessary runtime files**.
+Due to file size limits on GitHub, **the source code repository itself does not contain the runtime binaries or game assets**. 
 
-👉 **Head over to the [GitHub Releases tab](https://www.google.com/search?q=../../releases&utm_source=gemini) to download the package archives.**
+👉 **Head over to the [GitHub Releases tab](../../releases) to download the package archives.**
 
-In the Releases section, you will find two distinct editions available for download:
+In the Releases section, you will find the complete, ready-to-run package:
 
-1. **The Minimal Edition:** Stripped down to contain only the absolute core essentials required to boot up the virtual machine and play the game, keeping the file size as lightweight as possible.
-2. **The Complete Edition:** The full, all-inclusive archival package. It includes everything from the minimal version, plus the complete raw driver ISOs (~700 MB), the Windows 98 SE installation ISO, and all reference materials used during the construction of this virtual environment.
+1. **The Core Archive (~1.4 GB):** A turnkey, 100% built execution environment containing pre-configured 86Box, necessary component ROMs, the virtual machine disk image with preinstalled drivers, and the English version of the game.
+2. **French Language Pack:** A separate downloadable ISO containing the French version of the game if you prefer to play in French (place it alongside the English version as show above).
 
 *(Note: Separate Windows and Linux targeted archives are provided in the releases to match your host operating system environment.)*
 
