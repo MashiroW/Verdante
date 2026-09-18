@@ -1,5 +1,5 @@
 ![Banniere Github_Autom](https://github.com/user-attachments/assets/0f058a29-b6db-4e5d-a5cb-125b06e851d9)
-*A complete preservation and turnkey execution package for **Silver** (1999) by Infogrames, running on a pre-configured 86Box Windows 98 SE virtual machine.*
+*A complete preservation and turnkey execution package for **Silver** (1999) by Infogrames, running on a pre-configured 86Box Windows 98 SE emulated machine.*
 
 ---
 
