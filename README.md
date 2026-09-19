@@ -28,6 +28,8 @@ Because of these issues, **Verdante** was engineered through extensive trial and
 * **Not for Distribution of Copyrighted Media:** This repository and its releases do not aim to distribute commercial software illegally.
 * **Support the Developers & Publishers:** We strongly encourage everyone to legally obtain and own copies of the games they love. Please ensure you own an official retail copy or a digital version (such as from Steam or GOG) to support the rights holders before utilizing this archival package.
 
+https://github.com/user-attachments/assets/ed05338f-d845-4c1e-a0ee-8c57865ad932
+
 ---
 
 ## 💻 Under the Hood: The Custom Emulated Hardware Spec
