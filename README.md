@@ -98,3 +98,11 @@ In the Releases section, you will find the complete, ready-to-run package:
 * **Reclaiming Your Mouse Cursor:** Press the **Middle Mouse Button** to release the mouse cursor from the 86Box window back to your host operating system.
 * **Fullscreen / Windowed Toggle:** Press **Ctrl + Alt + Page Up** to switch between fullscreen and windowed mode.
 * **Changing Discs (CD Swapping):** Open the top menu bar of the 86Box window, navigate to the media settings, and swap the ISO file when prompted by the game during multi-disc sequences.
+
+## ⚖️ License
+
+Copyright (C) 2026 MashiroW
+
+Verdante is free software, released under the [GNU General Public License v3.0](LICENSE). You may use, modify and redistribute it, in whole or in part (snippets included), as long as anything you distribute that is based on it is also released under the GPL-3.0 with its source code, and keeps this copyright notice. Third-party assets and libraries included in or used by this project remain under their own licenses.
+
+**Commercial or closed-source use:** if you want to use this project, or any part of it, in a proprietary or closed-source product without the GPL obligations, you need a separate commercial license. Contact me on Discord to get one: https://discord.gg/Y4HfQReA9y
